@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\workspace\ProjektZaliczenie\cmsis -I..\..\..\workspace\ProjektZaliczenie -I..\..\..\workspace\ProjektZaliczenie\cmsis_boot -I..\..\..\workspace\ProjektZaliczenie\cmsis_lib\include -I..\..\..\workspace -I..\..\..\workspace\ProjektZaliczenie\cmsis_lib">
+      <target file="stm32f4xx_gpio.o" lastModified="15c79bea59a">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15c74e827d0"/>
+      </target>
+      <target file="stm32f4xx_adc.o" lastModified="15c79bea43a">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="15c7501195e"/>
+      </target>
+      <target file="tm_stm32f4_timer_properties.o" lastModified="15c79bea888">
+         <source file="..\..\..\cmsis_lib\include\tm_stm32f4_timer_properties.c" lastModified="1488e449b75"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="15c79bea9ec">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15c74f031a3"/>
+      </target>
+      <target file="tm_stm32f4_hd44780.o" lastModified="15c79bea115">
+         <source file="..\..\..\cmsis_lib\include\tm_stm32f4_hd44780.c" lastModified="14e8ce4e540"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="15c79bea6a4">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15c74ec114c"/>
+      </target>
+      <target file="tm_stm32f4_gpio.o" lastModified="15c79bea7d0">
+         <source file="..\..\..\cmsis_lib\include\tm_stm32f4_gpio.c" lastModified="14de25630e8"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="15c79bea181">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15c74e6e699"/>
+      </target>
+      <target file="a1.o" lastModified="15c79bea625">
+         <source file="..\..\..\cmsis_lib\include\a1.c" lastModified="15c74b02c50"/>
+      </target>
+      <target file="stm32f4xx_exti.o" lastModified="15c79bea726">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_exti.c" lastModified="15c74e84947"/>
+      </target>
+      <target file="main.o" lastModified="15c79bea260">
+         <source file="..\..\..\main.c" lastModified="15c79bb72ae"/>
+      </target>
+      <target file="tm_stm32f4_delay.o" lastModified="15c79bea4eb">
+         <source file="..\..\..\cmsis_lib\include\tm_stm32f4_delay.c" lastModified="14fdb0eed12"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="15c79bea366">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15c74e6e681"/>
+      </target>
+   </processor>
+</history>

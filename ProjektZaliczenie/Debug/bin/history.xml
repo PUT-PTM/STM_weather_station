@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=ProjektZaliczenie.map -O0 --gc-sections -LE:\CooCox\CoIDE\configuration\ProgramData\ProjektZaliczenie -TE:\CooCox\CoIDE\configuration\ProgramData\ProjektZaliczenie/arm-gcc-link.ld -g">
+      <target file="ProjektZaliczenie.elf" lastModified="15c79beac0e">
+         <source file="..\obj\tm_stm32f4_hd44780.o" lastModified="15c79bea115"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="15c79bea181"/>
+         <source file="..\obj\main.o" lastModified="15c79bea260"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="15c79bea366"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="15c79bea43a"/>
+         <source file="..\obj\tm_stm32f4_delay.o" lastModified="15c79bea4eb"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="15c79bea59a"/>
+         <source file="..\obj\a1.o" lastModified="15c79bea625"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="15c79bea6a4"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="15c79bea726"/>
+         <source file="..\obj\tm_stm32f4_gpio.o" lastModified="15c79bea7d0"/>
+         <source file="..\obj\tm_stm32f4_timer_properties.o" lastModified="15c79bea888"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="15c79bea9ec"/>
+      </target>
+   </processor>
+</history>
