@@ -22,6 +22,9 @@ Project has been writen in CooCox IDE, in C language. Just clone the repo, Build
 ![alt text](https://i.imgur.com/3QrFGTP.jpg)
 
 ## Credits
+[6.1]: http://i.imgur.com/9I6NRUm.png
+[1]: https://github.com/sense6
+[2]: https://github.com/Balhut
 
-###### Konrad Worobiej
-###### Łukasz Żołądkiewicz
+###### Konrad Worobiej [![alt text][6.1]][1]
+###### Łukasz Żołądkiewicz [![alt text][6.1]][2]
