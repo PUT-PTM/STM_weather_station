@@ -20,3 +20,8 @@ Project has been writen in CooCox IDE, in C language. Just clone the repo, Build
 
 ## LCD Screen connection schematics
 ![alt text](https://i.imgur.com/3QrFGTP.jpg)
+
+## Credits
+
+Konrad Worobiej
+Łukasz Żołądkiewicz
