@@ -6,7 +6,7 @@ Small weather station designed to show current temperature, humidity and level o
 
 ## Description
 
-Project requires Discovery STM32F407VG board, Mini-USB cable, DHT11 sensor, LCM 1602 16X2 HD44780 LCD Screen, 
+Project requires Discovery STM32F407VG board, Mini-USB cable, DHT11 sensor, LCM 1602 16X2 HD44780 LCD Screen, C18 fotorezistor module.
 
 ## How to compile
 
@@ -23,5 +23,5 @@ Project has been writen in CooCox IDE, in C language. Just clone the repo, Build
 
 ## Credits
 
-Konrad Worobiej
-Łukasz Żołądkiewicz
+###### Konrad Worobiej
+###### Łukasz Żołądkiewicz
